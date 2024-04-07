@@ -1,5 +1,0 @@
-javac -cp .;java-cup-11b-runtime.jar *.java
-java -cp .;java-cup-11b-runtime.jar JavaParser text1.txt
- -------------------------------------------------------------------------------------------------
-java java_cup.Main filename.cup
-java filename (main) test.txt
