@@ -1,0 +1,201 @@
+Keyword: "abstract" line 1 | column 1
+
+Whitespace: line 1 | column 1
+Keyword: "boolean" line 2 | column 1
+
+Whitespace: line 2 | column 1
+Keyword: "break" line 3 | column 1
+
+Whitespace: line 3 | column 1
+Keyword: "catch" line 4 | column 1
+
+Whitespace: line 4 | column 1
+Keyword: "char" line 5 | column 1
+
+Whitespace: line 5 | column 1
+Keyword: "continue" line 6 | column 1
+
+Whitespace: line 6 | column 1
+Keyword: "default" line 7 | column 1
+
+Whitespace: line 7 | column 1
+Keyword: "do" line 8 | column 1
+
+Whitespace: line 8 | column 1
+Keyword: "double" line9 | column 1
+
+Whitespace: line 9 | column 1
+Keyword: "else" line10 | column 1
+
+Whitespace: line 10 | column 1
+Keyword: "enum" line11 | column 1
+
+Whitespace: line 11 | column 1
+Keyword: "extends" line12 | column 1
+
+Whitespace: line 12 | column 1
+Keyword: "final" line13 | column 1
+
+Whitespace: line 13 | column 1
+Keyword: "float" line14 | column 1
+
+Whitespace: line 14 | column 1
+Keyword: "for" line15 | column 1
+
+Whitespace: line 15 | column 1
+Keyword: "int" line16 | column1
+
+Whitespace: line 16 | column 1
+Keyword: "if" line17 | column1
+
+Whitespace: line 17 | column 1
+Keyword: "implements" line18 | column1
+
+Whitespace: line 18 | column 1
+Keyword: "import" line19 | column1
+
+Whitespace: line 19 | column 1
+Keyword: "interface" line20 | column1
+
+Whitespace: line 20 | column 1
+Keyword: "long" line21 | column1
+
+Whitespace: line 21 | column 1
+Keyword: "new" line22 | column1
+
+Whitespace: line 22 | column 1
+Keyword: "package" line23 | column1
+
+Whitespace: line 23 | column 1
+Keyword: "private" line24 | column1
+
+Whitespace: line 24 | column 1
+Keyword: "protected" line25 | column1
+
+Whitespace: line 25 | column 1
+Keyword: "public" line26 | column1
+
+Whitespace: line 26 | column 1
+Keyword: "return" line27 | column1
+
+Whitespace: line 27 | column 1
+Keyword: "short" line28 | column1
+
+Whitespace: line 28 | column 1
+Keyword: "static" line29 | column1
+
+Whitespace: line 29 | column 1
+Keyword: "switch" line30 | column1
+
+Whitespace: line 30 | column 1
+Keyword: "this" line31 | column1
+
+Whitespace: line 31 | column 1
+Keyword: "throws" line32 | column1
+
+Whitespace: line 32 | column 1
+Keyword: "try" line33 | column1
+
+Whitespace: line 33 | column 1
+Keyword: "var" line34 | column1
+
+Whitespace: line 34 | column 1
+Keyword: "void" line35 | column1
+
+Whitespace: line 35 | column 1
+Keyword: "while" line36 | column1
+
+Whitespace: line 36 | column 1
+
+Whitespace: line 37 | column 1
+Operator: "ADDITION Statement" line 38 | column 1
+
+Whitespace: line 38 | column 1
+Operator: "SUBTRACTION Statement" line 39 | column 1
+
+Whitespace: line 39 | column 1
+Operator: "DIVISION Statement" line 40 | column 1
+
+Whitespace: line 40 | column 1
+Operator: "MULTIPLICATION Statement" line 41 | column 1
+
+Whitespace: line 41 | column 1
+Operator: "MODULUS Statement" line 42 | column 1
+
+Whitespace: line 42 | column 1
+Operator: "Less than or Equal to" line 43 | column 1
+
+Whitespace: line 43 | column 1
+Operator: "Greater than or Equal to" line 44 | column 1
+
+Whitespace: line 44 | column 1
+Operator: "Greater that" line 45 | column 1
+
+Whitespace: line 45 | column 1
+Operator: "Less than" line 46 | column 1
+
+Whitespace: line 46 | column 1
+Operator: "Equal to" line 47 | column 1
+
+Whitespace: line 47 | column 1
+Operator: "Not Equal" line 48 | column 1
+
+Whitespace: line 48 | column 1
+Operator: "Colon" line 49 | column 1
+
+Whitespace: line 49 | column 1
+Operator: "ASSIGNMENT Statement" line 50 | column 1
+
+Whitespace: line 50 | column 1
+Operator: "Semicolon" line 51 | column 1
+
+Whitespace: line 51 | column 1
+Operator: "Single Quotation" line 52 | column 1
+
+Whitespace: line 52 | column 1
+Operator: "Comma" line 53 | column 1
+
+Whitespace: line 53 | column 1
+Operator: "Opening bracket" line 54 | column 1
+
+Whitespace: line 54 | column 1
+Operator: "Closing bracket" line 55 | column 1
+
+Whitespace: line 55 | column 1
+Operator: "Closing parenthesis" line 56 | column 1
+
+Whitespace: line 56 | column 1
+Operator: "Opening paranthesis" line 57 | column 1
+
+Whitespace: line 57 | column 1
+Operator: "Period" line 58 | column 1
+
+Whitespace: line 58 | column 1
+Operator: "INCREMENTAL Statement" line 59 | column 1
+
+Whitespace: line 59 | column 1
+Operator: "DECREMENTAL Statement" line 60 | column 1
+
+Whitespace: line 60 | column 1
+Operator: "POWER Statement" line 61 | column 1
+
+Whitespace: line 61 | column 1
+Operator: "Opening brace" line 62 | column 1
+
+Whitespace: line 62 | column 1
+Operator: "Closing brace" line 63 | column 1
+
+Whitespace: line 63 | column 1
+Operator: "Double quotation" line 64 | column 1
+
+Whitespace: line 64 | column 1
+Operator: "<> Sign" line 65 | column 1
+
+Whitespace: line 65 | column 1
+Operator: "And" line 66 | column 1
+
+Whitespace: line 66 | column 1
+Operator: "Or" line 67 | column 1
+
+Whitespace: line 67 | column 1
+Operator: ":= Sign" line 68 | column 1

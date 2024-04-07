@@ -1,0 +1,129 @@
+Keyword: "for" line1 | column 1
+Whitespace: line 1 | column 4
+Operator: "Opening paranthesis" line 1 | column 5
+Keyword: "int" line1 | column6
+Whitespace: line 1 | column 9
+Identifier: "i" line 1 | column 10
+Whitespace: line 1 | column 11
+Operator: "ASSIGNMENT Statement" line 1 | column 12
+Whitespace: line 1 | column 13
+Positive Integer: "0" line 1 | column 14
+Operator: "Semicolon" line 1 | column 15
+Whitespace: line 1 | column 16
+Identifier: "i" line 1 | column 17
+Whitespace: line 1 | column 18
+Operator: "Less than" line 1 | column 19
+Whitespace: line 1 | column 20
+Positive Integer: "10" line 1 | column 21
+Operator: "Semicolon" line 1 | column 23
+Whitespace: line 1 | column 24
+Identifier: "i" line 1 | column 25
+Operator: "INCREMENTAL Statement" line 1 | column 26
+Operator: "Closing parenthesis" line 1 | column 28
+Operator: "Opening brace" line 1 | column 29
+
+Whitespace: line 1 | column 1
+Reserved word: "println" line 2 | column 2
+Operator: "Opening paranthesis" line 2 | column 9
+String: "Hello, World!" line 2 | column 10
+Operator: "Closing parenthesis" line 2 | column 25
+
+Whitespace: line 2 | column 1
+Operator: "Closing brace" line 3 | column 1
+
+Whitespace: line 3 | column 1
+
+Whitespace: line 4 | column 1
+String: "JFLEX" line 5 | column 1
+
+Whitespace: line 5 | column 1
+Comment: 
+//Comment Test
+ line 6 | column 1
+Comment: 
+/*Comment Test*/ line 7 | column 1
+
+Whitespace: line 7 | column 1
+
+Whitespace: line 8 | column 1
+Identifier: "number" line 9 | column 1
+
+Whitespace: line 9 | column 1
+
+Whitespace: line 10 | column 1
+Keyword: "for" line11 | column 1
+
+Whitespace: line 11 | column 1
+Keyword: "for" line12 | column 1
+
+Whitespace: line 12 | column 1
+
+Whitespace: line 13 | column 1
+Reserved word: "inumber" line 14 | column 1
+
+Whitespace: line 14 | column 1
+Reserved word: "clear" line 15 | column 1
+
+Whitespace: line 15 | column 1
+Reserved word: "println" line 16 | column 1
+
+Whitespace: line 16 | column 1
+
+Whitespace: line 17 | column 1
+Positive Float: "24.56" line 18 | column 1
+
+Whitespace: line 18 | column 1
+Positive Float: "+56.89" line 19 | column 1
+
+Whitespace: line 19 | column 1
+Negative Float: "-12.23" line 20 | column 1
+
+Whitespace: line 20 | column 1
+
+Whitespace: line 21 | column 1
+Positive Integer: "56" line 22 | column 1
+Whitespace: line 22 | column 3
+
+Whitespace: line 22 | column 1
+Positive Integer: "+370" line 23 | column 1
+
+Whitespace: line 23 | column 1
+Negative Integer: "-1378" line 24 | column 1
+
+Whitespace: line 24 | column 1
+
+Whitespace: line 25 | column 1
+Operator: "INCREMENTAL Statement" line 26 | column 1
+Positive Integer: "10" line 26 | column 3
+
+Whitespace: line 26 | column 1
+Operator: "DECREMENTAL Statement" line 27 | column 1
+Positive Integer: "13" line 27 | column 3
+
+Whitespace: line 27 | column 1
+Positive Integer: "13" line 28 | column 1
+Operator: "DECREMENTAL Statement" line 28 | column 3
+
+Whitespace: line 28 | column 1
+Positive Integer: "13" line 29 | column 1
+Operator: "INCREMENTAL Statement" line 29 | column 3
+
+Whitespace: line 29 | column 1
+Comment: 
+/*kkf
+/*hhh*/ line 30 | column 1
+Whitespace: line 31 | column 8
+
+Whitespace: line 31 | column 1
+Comment: 
+//idfji
+ line 32 | column 1
+Whitespace: line 33 | column 1
+Identifier: "l" line 33 | column 2
+Operator: "Comma" line 33 | column 3
+Whitespace: line 33 | column 4
+Identifier: "nlg" line 33 | column 5
+Whitespace: line 33 | column 8
+Identifier: "kgmkgmbk" line 33 | column 9
+
+Whitespace: line 33 | column 1
