@@ -1,0 +1,15 @@
+class A {
+	public static void main(String[] args){
+
+	 int x = 2 ** 10;
+
+	 //double y = 5.2;
+         clear(5);
+	 println(2.1 ** 2.2);
+
+
+
+}
+
+
+}
